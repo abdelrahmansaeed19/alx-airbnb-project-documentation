@@ -72,11 +72,11 @@
 
 6. Reviews and Ratings
 
-      Guests can leave reviews and ratings for properties.
-      
-      Hosts can respond to reviews.
-      
-      Ensure reviews are linked to specific bookings to prevent abuse.
+        Guests can leave reviews and ratings for properties.
+        
+        Hosts can respond to reviews.
+        
+        Ensure reviews are linked to specific bookings to prevent abuse.
 
 7. Notifications System
 
